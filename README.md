@@ -8,7 +8,7 @@
 * Easy day-long parking at the parking garage “Parking Rotonde” 
 * Art at Hôtel de Caumont
 * Lunch at Hôtel de Caumont
-* Stop by Book in Bar—a great book store across the street
+* Stop by [Book in Bar](http://www.bookinbar.com/)—a great book store across the street
 * Walk around Aix-en-Provence
 * Aix Cathedral
 * Fondation Vasarely
@@ -22,13 +22,13 @@
 * Notre Dame de la Garde
 * Drive to Les Goudes to see the fisherman’s village & have dinner
 
-# Day 3: Les Baux-de-Provence & Arles 
+# Day 3: [Les Baux-de-Provence](https://en.wikipedia.org/wiki/Les_Baux-de-Provence) & Arles 
 * Drive to Les Baux
 * Chateau-Fortress des Baux
 * Explore the village 
 * Carrières de Lumières
 * Drive to Arles 
-* Visit the main square—depicted in Van Gogh’s Cafe Terrace at Night
+* Visit the main square—depicted in [Van Gogh’s Cafe Terrace at Night](https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night)
 
 # Day 4: Island of Parquerolles 
 * Drive to Hyeres 
@@ -39,7 +39,7 @@
 * Bike further to find secluded beach
 
 # Day 5: Luberon
-* Drive to Senanque Abbey
+* Drive to [Senanque Abbey](http://www.avignon-et-provence.com/en/monuments/senanque-abbey)
 * Drive to Gordes & take the tour around the town 
 * Take a scenic route through Joucas to reach Rousillon 
 * Stop by for some wine tasting
