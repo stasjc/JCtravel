@@ -2,7 +2,7 @@
 Travel diaries &amp; recommendations
 Marseille & Luberon 
 
-Day 1: [Aix-en-Provence] (https://en.wikipedia.org/wiki/Aix-en-Provence)
+Day 1: [Aix-en-Provence](https://en.wikipedia.org/wiki/Aix-en-Provence)
 Arrive in Aix-en-Provence
 Easy day-long parking at the parking garage “Parking Rotonde” 
 Art at Hôtel de Caumont
