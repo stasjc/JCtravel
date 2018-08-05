@@ -25,8 +25,8 @@
 * Hop around Le Panier *Marseille’s oldest quarter*
 * Climb to see the views from Notre Dame de la Garde
 
-# Day 3: [Les Baux-de-Provence](https://en.wikipedia.org/wiki/Les_Baux-de-Provence) & Arles 
-* Drive to Les Baux *50 miles from Marseille*
+# Day 3: Les Baux-de-Provence & Arles 
+* Drive to [Les Baux-de-Provence](https://en.wikipedia.org/wiki/Les_Baux-de-Provence) *50 miles from Marseille*
 * Visit Chateau-Fortress des Baux & the village *spend 1-2 hours exploring*
 * See current art projections at [Carrières de Lumières](https://www.carrieres-lumieres.com/en)
 * Drive to Arles *15 miles from Les Baux* 
