@@ -1,2 +1,3 @@
 name: Stas & Daniel JC
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
