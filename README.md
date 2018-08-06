@@ -6,7 +6,7 @@
 # Day 1: Aix-en-Provence
 * Arrive in [Aix-en-Provence](https://en.wikipedia.org/wiki/Aix-en-Provence)
   * 30 miles north of Marseille by car, or train
-  * For card, sasy day-long parking at “Parking Rotonde” garage 
+  * For car, use the day-long parking at “Parking Rotonde” garage 
 * View temporary Modern/Contemporary exhibitions at [Hôtel de Caumont](https://www.caumont-centredart.com/en)
   * Excellent lunch & desert menu at the restaurant
 * Stop by [Book in Bar](http://www.bookinbar.com/)
